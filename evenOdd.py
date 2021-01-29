@@ -1,1 +1,1 @@
-remainder
+remainder=num%2
